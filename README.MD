@@ -18,3 +18,4 @@ ___
 ___
 # Visão geral da calculadora
 
+![Design da calculadora](https://raw.githubusercontent.com/JoeyBeckWheeler/Calculadora-Simples-CSharp/main/Images/Calculadora.png)
