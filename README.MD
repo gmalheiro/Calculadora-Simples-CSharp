@@ -1,7 +1,7 @@
 # Calculadora simples
 >Neste repositório está presente uma calculadora simples feita em sala de aula na **Etec Ermelinda Giannini Teixeira**. Calculadora desenvolvida em **C#**.
 
->link do [repositório](https://github.com/JoeyBeckWheeler/Calculadora-Simples-CSharp "link para o repositório")
+
 ___
 ___
 
